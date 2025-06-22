@@ -8,10 +8,9 @@ my submission for solder!!! its a cute little kitty and its my first ever PCB
 - two resistors
 - one cell
 
-![kicad_RNGRfp4snk](https://github.com/user-attachments/assets/68478876-b8da-4974-a4eb-8e517a8d17b1)
 
-![kicad_ED4OpbvqyK](https://github.com/user-attachments/assets/b077cdd8-b7ba-4b06-9d59-e4753625ba6d)
+![kicad_51OymMJo9L](https://github.com/user-attachments/assets/8086d6a8-6881-48cc-be67-64cb75b692bd)
 
-![kicad_DYiocJap2N](https://github.com/user-attachments/assets/a9657ffc-d19b-48c4-8e2e-88c17a59d763)
+![kicad_HohKrFBFgC](https://github.com/user-attachments/assets/87c26512-cfa0-4442-8f52-1ba35985f0f9)
 
-![kicad_KSzVcIEugq](https://github.com/user-attachments/assets/e8a44439-1a10-4e95-b034-85775830e3dd)
+![kicad_hqEemRAODF](https://github.com/user-attachments/assets/8ec085e0-0138-4f4d-85b7-af62ccb36195)
