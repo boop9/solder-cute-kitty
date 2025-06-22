@@ -1,5 +1,5 @@
 # solder-cute-kitty
-my submission for solder!!! its a cute little kitty and its my first ever PCB
+my submission for solder!!! its CHIIKAWA and its my first ever PCB and his eyes light up when you press his little cheeks
 
 # Bill of Materials
 
