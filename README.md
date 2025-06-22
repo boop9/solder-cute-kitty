@@ -3,7 +3,7 @@ my submission for solder!!! its CHIIKAWA and its my first ever PCB and his eyes 
 
 # Bill of Materials
 
-- one 6mm push-button
+- two 6mm push-buttons
 - two LEDs
 - two resistors
 - one cell
