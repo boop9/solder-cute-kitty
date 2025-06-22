@@ -1,6 +1,8 @@
 # solder-cute-kitty
 my submission for solder!!! its CHIIKAWA and its my first ever PCB and his eyes light up when you press his little cheeks
 
+slack username: Ali Khan
+
 # Bill of Materials
 
 - two 6mm push-buttons
@@ -14,3 +16,4 @@ my submission for solder!!! its CHIIKAWA and its my first ever PCB and his eyes 
 ![kicad_HohKrFBFgC](https://github.com/user-attachments/assets/87c26512-cfa0-4442-8f52-1ba35985f0f9)
 
 ![kicad_hqEemRAODF](https://github.com/user-attachments/assets/8ec085e0-0138-4f4d-85b7-af62ccb36195)
+
