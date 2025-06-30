@@ -9,6 +9,7 @@ slack username: Ali Khan
 - two LEDs
 - two resistors
 - one cell
+- one potentiometer
 
 
 ![kicad_51OymMJo9L](https://github.com/user-attachments/assets/8086d6a8-6881-48cc-be67-64cb75b692bd)
